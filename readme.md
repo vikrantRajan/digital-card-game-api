@@ -10,13 +10,10 @@
 
 ###### SETS
 1. GET /sets (USER)
-return an array of all available sets in the app, with their properties (id, tid, title, image, desc, price). (tid would be the text_id we
-discussed, while id is the mongo-generated id).
+return an array of all available sets in the app, with their properties (id, tid, title, image, desc, price). (tid would be the text_id, while id is the mongo-generated id).
 
 2. GET /sets/:setId (USER)
-return the information about 1 set, it should also include an extra array of all the available cards in that set. (even if that array if not
-directly in the set schema), including card info like image, title, rarity. Would be cool if :setId is a representative string (tid) instead of a
-ObjectId
+return the information about 1 set, it should also include an extra array of all the available cards in that set. (even if that array if not directly in the set schema), including card info like image, title, rarity. 
 
 3. POST /sets/add (MANAGER)
 Add a new set to the database (tid, title, image, desc, price). id (MongoID) should be automatic. tid (text id) should be unique.
@@ -26,16 +23,15 @@ Edit the information about a set (title, image, description and price). No need 
 
 5. DELETE /sets/:setId (ADMIN)
 Delete a set from the DB. We probably want to delete all cards from that set too.
-CARDS
+
 
 ###### CARDS
 1. GET /cards (USER)
-return an array of all available cards in the app, with their properties (id, tid, title, image, set, rarity) rarity could be an integer (ex:
-0=common, 1=uncommon, 2=rare, 3=extra rare).
+- return an array of all available cards in the app, with their properties (id, tid, title, image, set, rarity) rarity could be an integer 
+- (eg: 0=common, 1=uncommon, 2=rare, 3=extra rare).
 
 2. GET /cards/:cardId (USER)
-return the information about 1 card, we may want to populate the set attached to this card so we can display the set’s title too when
-showing card info. Would be cool if :cardId is a representative string (tid) instead of a ObjectId.
+return the information about 1 card, we may want to populate the set attached to this card so we can display the set’s title too when showing card info.
 
 3. POST /cards/add (MANAGER)
 Add a new card to the database. (tid, title, image, set, rarity). id (MongoID) should be automatic. tid (text id) should be unique.
@@ -48,40 +44,37 @@ Delete a card from the DB.
 
 ###### USERS
 1. POST /users/addcard/:userId (ADMIN or SAME MANAGER)
-The request body should have a tid and quantity, and it will add those cards to this user’s collection. Would be cool if this function
-support two type of body: either a single card, or an array of cards, so we don’t need to call this many times. Also make sure that the
+The request body should have a tid and quantity, and it will add those cards to this user’s collection. support two types of request body: either a single card, or an array of cards, so we don’t need to call this many times. Must make sure that the
 card exists before adding it.
 
 
 2. POST /users/addset/:userId (ADMIN or SAME MANAGER)
-The request body should have a tid and quantity, and it will add those unopened sets to this user collection. Would be cool if this
-function support two type of body: either a single set, or an array of sets, so we don’t need to call this many times. Also make sure that
+The request body should have a tid and quantity, and it will add those unopened sets to this user collection. Support two types of body: either a single set, or an array of sets, so we don’t need to call this many times. Must make sure that
 the set exists before adding it. 
 
 3. POST /users/openset/:userId (ADMIN or SAME USER)
-Open a user’s owned set, and gain random cards associated with it.
-The request body should have the setId. Only 1 set is opened at a time so no need quantity. It should then return an array of the cards
-gained and the api automatically add those cards to the user’s collection (and also remove the set). Make sure that the user has at least
-1 quantity of the set before opening it. Cards should be given randomly based on their rarity (ex: common 70%, uncommon 20%, rare
-10%, I will ask the client for the exact values, we should be able to change those value easily in the code).
+- Open a user’s owned set, and gain random cards associated with it.
+- The request body should have the setId. 
+- Only 1 set is opened at a time so no needto specify quantity. 
+- It should then return an array of the cards gained and the api automatically add those cards to the user’s collection (and also remove the set). 
+- Make sure that the user has at least 1 quantity of the set before opening it. 
+- Cards should be given randomly based on their rarity (ex: common 70%, uncommon 20%, rare 10%, we should be able to change those value easily in the config).
 
 4. GET /users/cards/:userId (MANAGER or SAME USER)
-Return a list of cards owned by the user, including quantities. We probably want to populate the cards so we have info about them, not
-just the ids.
+Return a list of cards owned by the user, including quantities. We want to populate the cards so we have info about them, not just the ids.
 
 5. GET /users/sets/:userId (MANAGER or SAME USER)
-Return a list of unopened sets owned by the user, including quantities. We probably want to populate the sets so we have info about
-them, not just the ids.
+Return a list of unopened sets owned by the user, including quantities. We probably want to populate the sets so we have info about them, not just the ids.
 
 6. POST /users/givecard/:userId (ADMIN or SAME USER)
-This will give a card owned by this user to another user. (so remove from userId collection and give it to targetUserId) The post body
-should have the card tid, the quantity, and the target user you give the card to. Would be cool if this function also supports either single
-card or arrays.
+- This will give a card owned by this user to another user. (so remove from userId collection and give it to targetUserId) 
+- The post body should have the card tid, the quantity, and the target user you give the card to. 
+- Support either single card or array of cards.
 
 7. POST /users/giveset/:userId (ADMIN or SAME USER)
-This will give a unopened set owned by this user to another user. (so remove from userId collection and give it to targetUserId). The
-post body should have the set tid, the quantity, and the target user you give the card to. Would be cool if this function also supports
-either single set or arrays.
+- This will give a unopened set owned by this user to another user. (so remove from userId collection and give it to targetUserId). 
+- The post body should have the set tid, the quantity, and the target user you give the card to. 
+- Support either single set or array of sets.
 
 
 ###### Storage Tasks (MANAGER)
