@@ -1,0 +1,985 @@
+[{
+  "_id": {
+    "$oid": "6013343e355cc44548a3c616"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "bearnard",
+  "title": "Bearnard",
+  "image": "cards/vintage_pet/bearnard.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133463355cc44548a3c617"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "captain_shogurt",
+  "title": "Captain Shogurt",
+  "image": "cards/vintage_pet/captain_shogurt.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133474355cc44548a3c618"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "captain_shogurt2",
+  "title": "Captain Shogurt Variant",
+  "image": "cards/vintage_pet/captain_shogurt2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133485355cc44548a3c619"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "bearnard2",
+  "title": "Bearnard Variant",
+  "image": "cards/vintage_pet/bearnard2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334aa355cc44548a3c61a"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "chelsea",
+  "title": "Chelsea",
+  "image": "cards/vintage_pet/chelsea.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334b1355cc44548a3c61b"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "chelsea2",
+  "title": "Chelsea Variant",
+  "image": "cards/vintage_pet/chelsea2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334c6355cc44548a3c61c"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "choya",
+  "title": "Choya",
+  "image": "cards/vintage_pet/choya.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334cd355cc44548a3c61d"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "choya2",
+  "title": "Choya Variant",
+  "image": "cards/vintage_pet/choya2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334e1355cc44548a3c61e"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "chummy2",
+  "title": "Chummy Variant",
+  "image": "cards/vintage_pet/chummy2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601334e7355cc44548a3c61f"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "chummy",
+  "title": "Chummy",
+  "image": "cards/vintage_pet/chummy.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133517355cc44548a3c620"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "elliott_dash",
+  "title": "Prince Elliott and Sir Dash",
+  "image": "cards/vintage_pet/elliott_dash.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133521355cc44548a3c621"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "elliott_dash2",
+  "title": "Prince Elliott and Sir Dash Variant",
+  "image": "cards/vintage_pet/elliott_dash2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133536355cc44548a3c622"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "emma2",
+  "title": "Emma Variant",
+  "image": "cards/vintage_pet/emma2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6013353d355cc44548a3c623"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "emma",
+  "title": "Emma",
+  "image": "cards/vintage_pet/emma.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133554355cc44548a3c624"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "frankie",
+  "title": "Frankie",
+  "image": "cards/vintage_pet/frankie.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6013355c355cc44548a3c625"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "frankie2",
+  "title": "Frankie Variant",
+  "image": "cards/vintage_pet/frankie2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133582355cc44548a3c626"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "genie_arlo",
+  "title": "Genie Arlo",
+  "image": "cards/vintage_pet/genie_arlo.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60133589355cc44548a3c627"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "genie_arlo2",
+  "title": "Genie Arlo Variant",
+  "image": "cards/vintage_pet/genie_arlo2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601335b2355cc44548a3c628"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "pepper2",
+  "title": "Pepper Variant",
+  "image": "cards/vintage_pet/pepper2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601335b6355cc44548a3c629"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "pepper",
+  "title": "Pepper",
+  "image": "cards/vintage_pet/pepper.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139878bbe76428602301c6"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "gamora_moriarty",
+  "title": "Gamora & Moriarty",
+  "image": "cards/vintage_pet/gamora_moriarty.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139881bbe76428602301c7"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "gamora_moriarty2",
+  "title": "Gamora & Moriarty Variant",
+  "image": "cards/vintage_pet/gamora_moriarty2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601398c6bbe76428602301c8"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "greyhoundsburg2",
+  "title": "Greyhoundsburg Variant",
+  "image": "cards/vintage_pet/greyhoundsburg2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601398cfbbe76428602301c9"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "greyhoundsburg",
+  "title": "Greyhoundsburg",
+  "image": "cards/vintage_pet/greyhoundsburg.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139924bbe76428602301ca"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "hambone",
+  "title": "Lord Hambone",
+  "image": "cards/vintage_pet/hambone.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6013992fbbe76428602301cb"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "hambone2",
+  "title": "Lord Hambone Variant",
+  "image": "cards/vintage_pet/hambone2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6013994dbbe76428602301cc"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "harley_ozzy2",
+  "title": "Harley & Ozzy Variant",
+  "image": "cards/vintage_pet/harley_ozzy2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139954bbe76428602301cd"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "harley_ozzy",
+  "title": "Harley & Ozzy",
+  "image": "cards/vintage_pet/harley_ozzy.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139974bbe76428602301ce"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "heidi_caspar",
+  "title": "Heidi & Caspar",
+  "image": "cards/vintage_pet/heidi_caspar.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6013997cbbe76428602301cf"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "heidi_caspar2",
+  "title": "Heidi & Caspar Variant",
+  "image": "cards/vintage_pet/heidi_caspar2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139990bbe76428602301d0"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "indigo2",
+  "title": "Indigo Variant",
+  "image": "cards/vintage_pet/indigo2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139997bbe76428602301d1"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "indigo",
+  "title": "Indigo",
+  "image": "cards/vintage_pet/indigo.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399a1bbe76428602301d2"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "josie",
+  "title": "Josie",
+  "image": "cards/vintage_pet/josie.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399a9bbe76428602301d3"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "josie2",
+  "title": "Josie Variant",
+  "image": "cards/vintage_pet/josie2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399c1bbe76428602301d4"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "lady_luna2",
+  "title": "Lady Luna Variant",
+  "image": "cards/vintage_pet/lady_luna2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399c7bbe76428602301d5"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "lady_luna",
+  "title": "Lady Luna",
+  "image": "cards/vintage_pet/lady_luna.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399e8bbe76428602301d6"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "madam_beastie",
+  "title": "Madam Beastie",
+  "image": "cards/vintage_pet/madam_beastie.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399eebbe76428602301d7"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "madam_beastie2",
+  "title": "Madam Beastie Variant",
+  "image": "cards/vintage_pet/madam_beastie2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601399ffbbe76428602301d8"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "mojo2",
+  "title": "Mojo Variant",
+  "image": "cards/vintage_pet/mojo2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a04bbe76428602301d9"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "mojo",
+  "title": "Mojo",
+  "image": "cards/vintage_pet/mojo.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a25bbe76428602301da"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "mousse",
+  "title": "Mousse",
+  "image": "cards/vintage_pet/mousse1.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a2cbbe76428602301db"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "mousse2",
+  "title": "Mousse Variant",
+  "image": "cards/vintage_pet/mousse2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a44bbe76428602301dc"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "nay2",
+  "title": "Nay Variant",
+  "image": "cards/vintage_pet/nay2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a4ebbe76428602301dd"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "nay",
+  "title": "Nay",
+  "image": "cards/vintage_pet/nay.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a78bbe76428602301de"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "noelle",
+  "title": "Noelle",
+  "image": "cards/vintage_pet/noelle.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a7ebbe76428602301df"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "noelle2",
+  "title": "Noelle Variant",
+  "image": "cards/vintage_pet/noelle2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a96bbe76428602301e0"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "noodle2",
+  "title": "Noodle Variant",
+  "image": "cards/vintage_pet/noodle2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139a9cbbe76428602301e1"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "noodle",
+  "title": "Noodle",
+  "image": "cards/vintage_pet/noodle.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139ab5bbe76428602301e2"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "oliver_jefferson",
+  "title": "Oliver Jefferson",
+  "image": "cards/vintage_pet/oliver_jefferson.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139abbbbe76428602301e3"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "oliver_jefferson2",
+  "title": "Oliver Jefferson Variant",
+  "image": "cards/vintage_pet/oliver_jefferson2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139ad9bbe76428602301e4"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "ophelia2",
+  "title": "Ophelia Variant",
+  "image": "cards/vintage_pet/ophelia2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139adebbe76428602301e5"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "ophelia",
+  "title": "Ophelia",
+  "image": "cards/vintage_pet/ophelia.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139afcbbe76428602301e6"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "ouija_tarrot",
+  "title": "Ouija & Tarrot",
+  "image": "cards/vintage_pet/ouija_tarrot.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b04bbe76428602301e7"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "ouija_tarrot2",
+  "title": "Ouija & Tarrot Variant",
+  "image": "cards/vintage_pet/ouija_tarrot2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b1dbbe76428602301e8"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "ozzy_lemmy2",
+  "title": "Ozze & Lemmy Variant",
+  "image": "cards/vintage_pet/ozzy_lemmy2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b22bbe76428602301e9"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "ozzy_lemmy",
+  "title": "Ozze & Lemmy",
+  "image": "cards/vintage_pet/ozzy_lemmy.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b30bbe76428602301ea"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "peach",
+  "title": "Peach",
+  "image": "cards/vintage_pet/peach.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b3abbe76428602301eb"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "peach2",
+  "title": "Peach Variant",
+  "image": "cards/vintage_pet/peach2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b7abbe76428602301ec"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "puffin2",
+  "title": "Puffin, Cercei, Cookie Variant",
+  "image": "cards/vintage_pet/puffin2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b80bbe76428602301ed"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "puffin",
+  "title": "Puffin, Cercei, Cookie",
+  "image": "cards/vintage_pet/puffin.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139b97bbe76428602301ee"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "scott",
+  "title": "Scott",
+  "image": "cards/vintage_pet/scott.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139ba0bbe76428602301ef"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "scott2",
+  "title": "Scott Variant",
+  "image": "cards/vintage_pet/scott2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139bacbbe76428602301f0"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 1,
+  "tid": "scout2",
+  "title": "Scout Variant",
+  "image": "cards/vintage_pet/scout2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139bb2bbe76428602301f1"
+  },
+  "description": "",
+  "rarity": 2,
+  "variant": 0,
+  "tid": "scout",
+  "title": "Scout",
+  "image": "cards/vintage_pet/scout.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139bc5bbe76428602301f2"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "severus",
+  "title": "Severus",
+  "image": "cards/vintage_pet/severus.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139bcdbbe76428602301f3"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "severus2",
+  "title": "Severus Variant",
+  "image": "cards/vintage_pet/severus2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c04bbe76428602301f4"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "shiki_bao_sago2",
+  "title": "Shiki Bao Sago Variant",
+  "image": "cards/vintage_pet/shiki_bao_sago2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c0abbe76428602301f5"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "shiki_bao_sago",
+  "title": "Shiki Bao Sago",
+  "image": "cards/vintage_pet/shiki_bao_sago.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c1ebbe76428602301f6"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "sir_jasper",
+  "title": "Sir Jasper",
+  "image": "cards/vintage_pet/sir_jasper.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c25bbe76428602301f7"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "sir_jasper2",
+  "title": "Sir Jasper Variant",
+  "image": "cards/vintage_pet/sir_jasper2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c41bbe76428602301f8"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "sophie",
+  "title": "Sophie",
+  "image": "cards/vintage_pet/sophie.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c4abbe76428602301f9"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "sophie2",
+  "title": "Sophie Variant",
+  "image": "cards/vintage_pet/sophie2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c63bbe76428602301fa"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "tatoo_polski2",
+  "title": "Tatoo & Polski Variant",
+  "image": "cards/vintage_pet/tatoo_polski2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c69bbe76428602301fb"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "tatoo_polski",
+  "title": "Tatoo & Polski",
+  "image": "cards/vintage_pet/tatoo_polski.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c77bbe76428602301fc"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 0,
+  "tid": "theodore",
+  "title": "Theodore",
+  "image": "cards/vintage_pet/theodore.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c84bbe76428602301fd"
+  },
+  "description": "",
+  "rarity": 0,
+  "variant": 1,
+  "tid": "theodore2",
+  "title": "Theodore Variant",
+  "image": "cards/vintage_pet/theodore2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c93bbe76428602301fe"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 1,
+  "tid": "vinny2",
+  "title": "Vinny Variant",
+  "image": "cards/vintage_pet/vinny2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139c99bbe76428602301ff"
+  },
+  "description": "",
+  "rarity": 3,
+  "variant": 0,
+  "tid": "vinny",
+  "title": "Vinny",
+  "image": "cards/vintage_pet/vinny.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139caabbe7642860230200"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 0,
+  "tid": "waldo",
+  "title": "Waldo",
+  "image": "cards/vintage_pet/waldo.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139cb1bbe7642860230201"
+  },
+  "description": "",
+  "rarity": 1,
+  "variant": 1,
+  "tid": "waldo2",
+  "title": "Waldo Variant",
+  "image": "cards/vintage_pet/waldo2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139cc4bbe7642860230202"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 1,
+  "tid": "zucchini2",
+  "title": "Zucchini Variant",
+  "image": "cards/vintage_pet/zucchini2.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60139ccbbbe7642860230203"
+  },
+  "description": "",
+  "rarity": 4,
+  "variant": 0,
+  "tid": "zucchini",
+  "title": "Zucchini",
+  "image": "cards/vintage_pet/zucchini.png",
+  "set_tid": "vintage_pet",
+  "__v": 0
+}]

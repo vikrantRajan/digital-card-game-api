@@ -1,0 +1,39 @@
+{
+  "name": "spiritclashapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "start": "nodemon server.js -c 'green'"
+  },
+  "author": "marc477",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.840.0",
+    "body-parser": "^1.19.0",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.8.7",
+    "in-app-purchase": "^1.11.4",
+    "jimp": "^0.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-simple": "^0.5.6",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "mongoose": "^5.11.10",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^6.4.17",
+    "saslprep": "^1.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "mocha": "^6.2.3",
+    "nodemon": "^2.0.6"
+  }
+}
